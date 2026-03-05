@@ -2,7 +2,7 @@
 title: "Mastering AEM 6.5 Content Fragments: The Key to True Omnichannel Delivery"
 description: "Content Fragments in AEM 6.5 enable true omnichannel delivery by separating content from presentation. Learn how to leverage this powerful headless CMS capability for structured data management and channel-agnostic content delivery."
 pubDate: 2024-11-20T00:00:00.000Z
-author: "Infiniumtek Team"
+author: "Thomas Franz"
 category: "AEM"
 tags: ["aem-6.5", "content-fragments", "headless", "omnichannel", "graphql"]
 draft: false

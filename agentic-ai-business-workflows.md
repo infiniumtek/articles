@@ -2,7 +2,7 @@
 title: "Agentic AI in Practice: Automating Business Workflows Beyond Chatbots"
 description: "Chatbots answer questions. Agentic AI completes tasks. Here's how organizations are using autonomous AI agents to handle real business workflows — and the guardrails that make it work safely."
 pubDate: 2025-02-01T00:00:00.000Z
-author: "Infiniumtek Team"
+author: "Thomas Franz"
 category: "AI & Automation"
 tags: ["agentic-ai", "automation", "llm", "workflows", "guardrails"]
 draft: false

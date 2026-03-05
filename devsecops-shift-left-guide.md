@@ -2,7 +2,7 @@
 title: "Shift Left Without Slowing Down: A Practical Guide to DevSecOps"
 description: "Security doesn't have to be a bottleneck. This guide covers the four layers of a practical DevSecOps pipeline, recommended tools for each stage, and metrics that prove your program is working."
 pubDate: 2025-01-29T00:00:00.000Z
-author: "Infiniumtek Team"
+author: "Thomas Franz"
 category: "Security"
 tags: ["devsecops", "shift-left", "security", "ci-cd", "sast", "sca"]
 draft: false

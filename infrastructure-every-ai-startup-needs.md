@@ -2,7 +2,7 @@
 title: "The Infrastructure Every AI Startup Needs"
 description: "GPU hosting, API design, autoscaling, and monitoring — the core infrastructure decisions that determine whether your AI startup scales or stalls. A practical guide for founders and technical leads."
 pubDate: 2025-03-19T00:00:00.000Z
-author: "Infiniumtek Team"
+author: "Thomas Franz"
 category: "AI & Automation"
 tags: ["ai-startup", "infrastructure", "gpu-hosting", "scaling", "monitoring", "api-design"]
 draft: false

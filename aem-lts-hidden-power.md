@@ -2,7 +2,7 @@
 title: "The Hidden Power of AEM 6.5 LTS: Why This Upgrade is a Critical Move"
 description: "AEM 6.5 LTS is more than maintenance—it's a major architectural refresh. Discover how modern Java support, enhanced security, and accessibility improvements make upgrading to AEM 6.5 LTS a strategic necessity for your organization."
 pubDate: 2024-12-01T00:00:00.000Z
-author: "Infiniumtek Team"
+author: "Thomas Franz"
 category: "AEM"
 tags: ["aem-6.5", "upgrades", "java", "lts", "performance"]
 draft: false

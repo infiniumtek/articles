@@ -2,7 +2,7 @@
 title: "What's New in AEM? A Summary of the Latest Updates (November 2025)"
 description: "Stay current with the latest AEM updates. This summary covers AEM as a Cloud Service, AEM 6.5 Standard, and AEM 6.5 LTS releases from November 2025, including Java 21 support, accessibility improvements, and security enhancements."
 pubDate: 2024-11-26T00:00:00.000Z
-author: "Infiniumtek Team"
+author: "Thomas Franz"
 category: "AEM"
 tags: ["aem", "aem-6.5", "aem-cloud", "updates", "releases"]
 draft: false

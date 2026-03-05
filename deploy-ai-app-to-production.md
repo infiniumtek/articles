@@ -2,7 +2,7 @@
 title: "How to Deploy an AI App to Production: A Practical Guide"
 description: "You built an app with Cursor, Replit, or Lovable — now what? This guide covers hosting, security, CI/CD, and monitoring so you can deploy your AI app to production with confidence."
 pubDate: 2025-03-05T00:00:00.000Z
-author: "Infiniumtek Team"
+author: "Thomas Franz"
 category: "AI & Automation"
 tags: ["deploy-ai-app", "production", "hosting", "ci-cd", "monitoring", "vibe-coding"]
 draft: false

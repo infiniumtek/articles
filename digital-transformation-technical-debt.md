@@ -2,7 +2,7 @@
 title: "Digital Transformation Starts with Technical Debt: A Pragmatic Approach"
 description: "Most digital transformation initiatives stall because they ignore the foundation. Here's a pragmatic framework for tackling technical debt first — using the strangler fig pattern, a prioritization matrix, and quick wins that build organizational momentum."
 pubDate: 2025-02-05T00:00:00.000Z
-author: "Infiniumtek Team"
+author: "Thomas Franz"
 category: "Strategy"
 tags: ["digital-transformation", "technical-debt", "strategy", "modernization", "architecture"]
 draft: false

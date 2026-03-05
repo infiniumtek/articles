@@ -2,7 +2,7 @@
 title: "Checklist: Preparing Your AEM 6.5 Environment for an Upgrade"
 description: "A comprehensive checklist to ensure your AEM 6.5 environment is ready for upgrade, covering discovery, testing, deployment, and post-upgrade validation."
 pubDate: 2024-11-10T00:00:00.000Z
-author: "Infiniumtek Team"
+author: "Thomas Franz"
 category: "AEM"
 tags: ["aem-6.5", "upgrades", "checklist", "best-practices"]
 draft: false

@@ -2,7 +2,7 @@
 title: "From Replit to Production: A Deployment Guide"
 description: "Replit is great for building apps fast — but production requires real infrastructure. This guide covers how to take your Replit app to production with proper hosting, databases, CI/CD, and security."
 pubDate: 2025-03-12T00:00:00.000Z
-author: "Infiniumtek Team"
+author: "Thomas Franz"
 category: "AI & Automation"
 tags: ["replit", "production", "deployment", "hosting", "vibe-coding", "infrastructure"]
 draft: false

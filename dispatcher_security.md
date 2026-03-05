@@ -2,7 +2,7 @@
 title: "The Fortress at the Gate: Mastering AEM Dispatcher Security"
 description: "Learn how to secure your AEM Dispatcher with best practices including allowlist configurations, administrative access lockdowns, DoS mitigation, and architectural hygiene."
 pubDate: 2024-12-08T00:00:00.000Z
-author: "Infiniumtek Team"
+author: "Thomas Franz"
 category: "AEM"
 tags: ["aem", "dispatcher", "security", "best-practices", "devops"]
 draft: false

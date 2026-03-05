@@ -2,7 +2,7 @@
 title: "Why You Should Plan Your AEM 6.5 Upgrade Before End of Support"
 description: "With AEM 6.5 Extended Support ending soon, waiting too long to plan your upgrade can lead to security risks, rushed decisions, and expensive emergency work. Here's why you should start planning now."
 pubDate: 2024-11-15T00:00:00.000Z
-author: "Infiniumtek Team"
+author: "Thomas Franz"
 category: "AEM"
 tags: ["aem-6.5", "upgrades", "planning", "eol"]
 draft: false

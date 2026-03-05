@@ -2,7 +2,7 @@
 title: "How Long-Term AEM Support Contracts Reduce Risk"
 description: "Long-term support contracts for AEM provide stability, predictable costs, and peace of mind. Learn how ongoing support reduces operational risk and keeps your AEM environment healthy."
 pubDate: 2024-11-05T00:00:00.000Z
-author: "Infiniumtek Team"
+author: "Thomas Franz"
 category: "Support"
 tags: ["aem", "support", "risk-management", "maintenance"]
 draft: false

@@ -2,7 +2,7 @@
 title: "Headless CMS and Modern E-Commerce: Choosing the Right Architecture"
 description: "Monolithic, headless, or composable? The architecture you choose for your content and commerce stack determines your speed, flexibility, and long-term costs. Here's how to evaluate your options."
 pubDate: 2025-01-22T00:00:00.000Z
-author: "Infiniumtek Team"
+author: "Thomas Franz"
 category: "Web Engineering"
 tags: ["headless-cms", "e-commerce", "architecture", "composable", "performance"]
 draft: false

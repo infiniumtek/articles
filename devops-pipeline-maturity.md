@@ -2,7 +2,7 @@
 title: "From Manual Deploys to Automated Pipelines: A DevOps Maturity Roadmap"
 description: "Most teams know they need better CI/CD, but few have a clear path to get there. This four-stage maturity model helps you identify where you are today and what to tackle next — from manual deployments to full GitOps."
 pubDate: 2025-01-15T00:00:00.000Z
-author: "Infiniumtek Team"
+author: "Thomas Franz"
 category: "Software Engineering"
 tags: ["devops", "ci-cd", "gitops", "infrastructure-as-code", "automation"]
 draft: false
