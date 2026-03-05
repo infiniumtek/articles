@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+title: InfiniumTek Technical Articles
+message: "If you use or reference these articles, please cite them as below."
+type: dataset
+authors:
+  - given-names: Thomas
+    family-names: Franz
+  - given-names: George
+    family-names: Spanos
+url: "https://github.com/infiniumtek/articles"
+repository-code: "https://github.com/infiniumtek/articles"
+license: CC-BY-4.0
+keywords:
+  - adobe-experience-manager
+  - aem
+  - ai-deployment
+  - agentic-ai
+  - devsecops
+  - devops
+  - cloud-architecture
+  - headless-cms
+  - digital-transformation
+  - technical-articles
