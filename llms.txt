@@ -1,36 +1,36 @@
 # InfiniumTek Articles
 
-> Educational technical articles published by InfiniumTek covering Adobe Experience Manager (AEM), AI deployment, DevSecOps, cloud architecture, and digital transformation.
+> Educational technical articles published by InfiniumTek covering AI deployment, DevSecOps, cloud architecture, small business technology, and Adobe Experience Manager (AEM).
 
 ## About InfiniumTek
 
-InfiniumTek is a technology consulting firm specializing in AEM implementations, AI-powered automation, DevSecOps pipelines, and cloud-native architecture. These articles provide practical, in-depth guidance for engineering teams and technical decision-makers.
+InfiniumTek is a technology consulting firm specializing in AI-powered automation, DevSecOps pipelines, cloud-native architecture, and AEM implementations. These articles provide practical, in-depth guidance for engineering teams, founders, and technical decision-makers.
 
 ## Articles
 
-### Adobe Experience Manager (AEM)
-
-- [Mastering AEM 6.5 Content Fragments](aem-content-fragments.md): Content Fragments in AEM 6.5 enable true omnichannel delivery by separating content from presentation.
-- [AEM LTS Hidden Power](aem-lts-hidden-power.md): Discover the hidden capabilities of AEM Long-Term Support releases.
-- [AEM Support Contracts & Risk Reduction](aem-support-contracts-reduce-risk.md): How AEM support contracts reduce operational risk and protect your investment.
-- [AEM Upgrade Checklist](aem-upgrade-checklist.md): A comprehensive checklist for planning and executing AEM upgrades.
-- [AEM Upgrade Planning Before EOL](aem-upgrade-planning-before-eol.md): Strategic planning guide for AEM upgrades before end-of-life deadlines.
-- [AEM Upgrade Summary](aem-upgrade-summary-nov-2025.md): Summary of AEM upgrade considerations as of November 2025.
-- [Mastering AEM Dispatcher Security](dispatcher-security.md): Best practices for securing your AEM Dispatcher including allowlist configurations and DoS mitigation.
-
 ### AI & Emerging Technology
 
-- [Agentic AI in Practice](agentic-ai-business-workflows.md): How organizations are using autonomous AI agents to handle real business workflows beyond chatbots.
-- [Deploy an AI App to Production](deploy-ai-app-to-production.md): A practical guide covering hosting, security, CI/CD, and monitoring for AI app deployment.
-- [Infrastructure Every AI Startup Needs](infrastructure-every-ai-startup-needs.md): Essential infrastructure components for AI startups moving to production.
+- [Agentic AI in Practice: Automating Business Workflows Beyond Chatbots](agentic-ai-business-workflows.md): How organizations are using autonomous AI agents to handle real business workflows — and the guardrails that make it work safely.
+- [How to Deploy an AI App to Production](deploy-ai-app-to-production.md): A practical guide covering hosting, security, CI/CD, and monitoring for deploying AI apps built with Cursor, Replit, or Lovable.
+- [The Infrastructure Every AI Startup Needs](infrastructure-every-ai-startup-needs.md): GPU hosting, API design, autoscaling, and monitoring — the core infrastructure decisions that determine whether your AI startup scales or stalls.
+
+### Software Engineering
+
+- [Stop Paying to Access Your Own Code: A Local Dev Guide for Vibe Coders](local-development-guide-for-vibe-coders.md): How to set up local development on your own machine, keep full ownership of your code, and avoid platform lock-in from Replit, Rork, and similar tools.
+- [From Replit to Production: A Deployment Guide](replit-to-production-deployment-guide.md): How to take your Replit app to production with proper hosting, databases, CI/CD, and security.
 
 ### DevOps & Security
 
-- [DevOps Pipeline Maturity](devops-pipeline-maturity.md): A maturity model for evaluating and improving DevOps pipelines.
-- [DevSecOps Shift-Left Guide](devsecops-shift-left-guide.md): Practical guide to integrating security earlier in the software development lifecycle.
+- [From Manual Deploys to Automated Pipelines: A DevOps Maturity Roadmap](devops-pipeline-maturity.md): A four-stage maturity model for evaluating and improving DevOps pipelines, from manual deployments to full GitOps.
+- [Shift Left Without Slowing Down: A Practical Guide to DevSecOps](devsecops-shift-left-guide.md): The four layers of a practical DevSecOps pipeline, recommended tools for each stage, and metrics that prove your program is working.
+- [Mastering AEM Dispatcher Security](dispatcher_security.md): Best practices for securing your AEM Dispatcher including allowlist configurations, DoS mitigation, and architectural hygiene.
 
 ### Architecture & Strategy
 
-- [Digital Transformation & Technical Debt](digital-transformation-technical-debt.md): Managing technical debt during digital transformation initiatives.
-- [Headless CMS eCommerce Architecture](headless-cms-ecommerce-architecture.md): Architectural patterns for headless CMS-driven eCommerce platforms.
-- [Replit to Production Deployment Guide](replit-to-production-deployment-guide.md): Guide for transitioning from Replit prototypes to production-grade deployments.
+- [Digital Transformation Starts with Technical Debt](digital-transformation-technical-debt.md): A pragmatic framework for tackling technical debt first — using the strangler fig pattern, a prioritization matrix, and quick wins that build momentum.
+- [Headless CMS and Modern E-Commerce: Choosing the Right Architecture](headless-cms-ecommerce-architecture.md): How to evaluate monolithic, headless, and composable architectures for your content and commerce stack.
+
+### Small Business
+
+- [The 5 Biggest Cybersecurity Threats Facing Small Businesses in 2026](5-biggest-cybersecurity-threats-small-businesses-2026.md): Phishing, weak credentials, unpatched software, ransomware, and social engineering — what each threat looks like and what protection actually involves.
+- [How to Know If Your Small Business Tech Stack Is Holding You Back](how-to-know-if-your-small-business-tech-stack-is-holding-you-back.md): How to spot the warning signs of a tech stack that's grown without a plan — and what to do about it.
